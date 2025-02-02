@@ -1,4 +1,3 @@
 # Stock-market-system-GUI-based-Java
-It has rate table for stock prices,buy and sell option for stocks,showing current account balance and stock investment,stock news and nifty-sensex indices section
-It has used java swing and awt for gui features.
-It has mostly covered all object oriented features.
+Technology Used: Java,Java Swing,AWT,Object Oriented Programming,GUI. It has rate table for stock prices,buy/sell
+option for stocks,showing current balance and stock investment,stock news and nifty/sensex indices section
